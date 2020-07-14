@@ -90,16 +90,12 @@ h3{}
   padding-left: 0.7rem;
 }
 
-#main .content .text h2 {
-  margin: 0px 0;
-}
-
 #main .content .text h2:hover {
   color: #c70613;
   cursor: pointer;
 }
 
-#main .content .text p {
+#main .content .text h1 {
   color: white;
 }
 #main{
