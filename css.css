@@ -1,0 +1,31 @@
+html{
+	rel-width:100%;
+	rel-height:100%;
+	background: url(993.jpg) no-repeat center center fixed;
+	background-size:cover;
+}
+h1{
+	text-align:center;
+	color:grey;
+	font-size:50px;
+	background: rgba(225,225,225,0.5);
+	border-left:solid 1px red;
+	border-right:solid 1px red;
+	border-bottom:solid 1px red;
+	
+}
+p{
+	text-align:center;
+	color:blue;
+	font-size:50px;
+	background: rgba(0,0,0,0.5);
+	border:solid;
+	border-radius:20px;
+	line-height:40px;
+	margin:100px,0,0,0;
+	
+}
+@media (max-width: 900px){
+	p{font-size:30px;}
+	
+}
